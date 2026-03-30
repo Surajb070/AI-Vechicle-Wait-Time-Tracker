@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  wobot-vehicle-timer:
+    build: .
+    image: wobot-vehicle-timer:latest
+    volumes:
+      - ./videos:/app/videos
+      - ./logs:/app/logs
+    command: ["videos/input.mp4", "videos/output.mp4"]

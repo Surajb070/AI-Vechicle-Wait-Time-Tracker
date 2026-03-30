@@ -1,0 +1,4 @@
+/home/ubuntu/wobot_assignment/build/CMakeFiles/wobot_vehicle_timer.dir
+/home/ubuntu/wobot_assignment/build/CMakeFiles/audio_visualizer.dir
+/home/ubuntu/wobot_assignment/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/wobot_assignment/build/CMakeFiles/rebuild_cache.dir

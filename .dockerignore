@@ -1,0 +1,6 @@
+build/
+.git/
+.gitignore
+*.log
+logs/
+videos/output.mp4
